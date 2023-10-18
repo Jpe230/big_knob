@@ -31,18 +31,22 @@ Any RP2040 with a pro micro footprint should work, but the firmware must be modi
 ### Soldering the LEDS
 
 The leds should be soldered with the arrow facing the bottom-right corner
+![leds](https://github.com/Jpe230/big_knob/blob/main/Renders/leds.png?raw=true)
 
 ### Soldering the Encoder
 
-Remove the grounding tabs at the side of the cncoder and solder it
+Remove the grounding tabs at the side of the cncoder and solder it\
+![ec11](https://github.com/Jpe230/big_knob/blob/main/Renders/encoder.png?raw=true)
 
 ### Soldering the RP2040
 
 The RP2040 should be mounted facing down.
+![rp2040](https://github.com/Jpe230/big_knob/blob/main/Renders/promicro.png?raw=true)
 
 ### Soldering the Screen
 
 With some thin wire solder the adjacent pads with the corresponding pad on the PCB.
+![pcb](https://github.com/Jpe230/big_knob/blob/main/Renders/pcb.png?raw=true)
 
 ## Mounting
 
